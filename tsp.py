@@ -20,11 +20,11 @@ CONST_MUTATION_RATE = 4
 CONST_POPULATION_SIZE = 100
 
 # Quantidade de gerações
-CONS_GENERATIONS = 60
+CONS_GENERATIONS = 1000
 
 # Quantidade de cidades
 global CONST_CITIES
-CONST_CITIES = 50
+CONST_CITIES = 10
 
 # Caso gerar aleatório limite dos eixos
 CONST_LIMIT = 20
@@ -100,6 +100,75 @@ def make_tournament(pop):
 
 	# retorna a população
 	return pop_middle
+
+def make_ox(pop):
+	# inicia a população vazio
+	pop_middle = []
+
+	# salva o melhor da população
+	best = get_best(pop)
+
+	# para cada dois individuos da população
+	for i in range(int(len(pop)/2)):
+
+		#seleciona dois cromossomos da populacao para fazer o cross-over
+		c1,c2 = np.random.choice((len(pop)),2, replace=False)
+		
+		#sorteia a problabilidade de fazer o cross-over
+		prob = np.random.randint(0,101) 
+
+		#verifica se a probabilidade sortiada caiu para fazer o cross-over
+		if(prob<=CONST_CROSS_RATE): 
+
+			# seleciona limite de substring
+			cut = sample(range(1, CONST_CITIES-1),2)
+			cut.sort();
+			pf1 = [None]*CONST_CITIES
+			pf2 = [None]*CONST_CITIES
+
+			pf1[cut[0]:cut[1]] = pop[c1].cro[cut[0]:cut[1]]
+			pf2[cut[0]:cut[1]] = pop[c2].cro[cut[0]:cut[1]]
+			# print('-------------------------------------------------')
+			# print(pf1,'||',pf2)
+			f1Aux = copy.deepcopy(pop[c2])
+			f2Aux = copy.deepcopy(pop[c1])
+			# print(f1Aux.cro,'||',f2Aux.cro) 
+
+			for j in range(len(pf1)):
+				if(pf1[j] in f2Aux.cro):
+					index = f2Aux.cro.index(pf1[j])
+					del f2Aux.cro[index]
+
+				if(pf2[j] in f1Aux.cro):
+					index2 = f1Aux.cro.index(pf2[j])
+					del f1Aux.cro[index2]
+			count1 = 0
+			count2 = 0
+			for j in range(len(pf1)):
+				if(pf1[j] == None):
+					pf1[j] = f2Aux.cro[count1]
+					count1 = count1 + 1
+				if(pf2[j] == None):
+					pf2[j] = f1Aux.cro[count2]
+					count2 = count2 + 1
+
+			# print('-------------------------------------------------')
+			# print(pf1,'||',pf2)
+			# print(f1Aux.cro,'||',f2Aux.cro) 
+			# print('-------------------------------------------------')
+			# input()
+			pop_middle.append(Cromossomo (cr = pf1))
+			pop_middle.append(Cromossomo (cr = pf2))
+		else:
+			# Se nao caiu na probabilidade adiciona os pais na população intermediária
+			pop_middle.append(Cromossomo(cr = pop[c1].cro))
+			pop_middle.append(Cromossomo(cr = pop[c2].cro))
+
+	# substitui o pior da população intermediaria pelo melhor da poulação normal
+	pop_middle[pop_middle.index(get_worst(pop_middle))] = copy.deepcopy(best)
+
+	return pop_middle
+
 
 # Realiza o OBX
 def make_obx(pop):
@@ -381,7 +450,8 @@ for m in range(0,5):
 		# show_population(pop)
 
 		# realiza o obx
-		pop = make_obx(pop)
+		# pop = make_obx(pop)
+		pop = make_ox(pop)
 
 		# mostra populacao se necessario
 		# show_population(pop)
