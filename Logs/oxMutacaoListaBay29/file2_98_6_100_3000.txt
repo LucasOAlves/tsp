@@ -1,0 +1,185 @@
+Exe: 0
+Generation: 0 Best_Fit: 20889.0392335
+Generation: 100 Best_Fit: 15344.2464752
+Generation: 200 Best_Fit: 13337.3625778
+Generation: 300 Best_Fit: 12948.1476166
+Generation: 400 Best_Fit: 12171.6602759
+Generation: 500 Best_Fit: 11171.7067427
+Generation: 600 Best_Fit: 10650.1892734
+Generation: 700 Best_Fit: 10371.2305467
+Generation: 800 Best_Fit: 9898.75811979
+Generation: 900 Best_Fit: 9881.39464183
+Generation: 1000 Best_Fit: 9755.17440539
+Generation: 1100 Best_Fit: 9729.92592341
+Generation: 1200 Best_Fit: 9586.02959842
+Generation: 1300 Best_Fit: 9586.02959842
+Generation: 1400 Best_Fit: 9586.02959842
+Generation: 1500 Best_Fit: 9586.02959842
+Generation: 1600 Best_Fit: 9586.02959842
+Generation: 1700 Best_Fit: 9586.02959842
+Generation: 1800 Best_Fit: 9586.02959842
+Generation: 1900 Best_Fit: 9586.02959842
+Generation: 2000 Best_Fit: 9586.02959842
+Generation: 2100 Best_Fit: 9586.02959842
+Generation: 2200 Best_Fit: 9586.02959842
+Generation: 2300 Best_Fit: 9586.02959842
+Generation: 2400 Best_Fit: 9586.02959842
+Generation: 2500 Best_Fit: 9586.02959842
+Generation: 2600 Best_Fit: 9586.02959842
+Generation: 2700 Best_Fit: 9586.02959842
+Generation: 2800 Best_Fit: 9586.02959842
+Generation: 2900 Best_Fit: 9586.02959842
+
+
+
+Best: [630, 1660][750, 2030][360, 1980][40, 2090][490, 2130][790, 2260][1170, 2300][1030, 2070][830, 1770][1150, 1760][1260, 1910][1260, 1500][1280, 1200][1460, 1420][1490, 1630][1840, 1240][1650, 650][1280, 790][1040, 950][750, 900][840, 550][490, 500][230, 590][510, 700][460, 860][750, 1100][970, 1340][710, 1310][590, 1390]
+
+
+Exe: 1
+Generation: 0 Best_Fit: 21794.8775544
+Generation: 100 Best_Fit: 14174.5812693
+Generation: 200 Best_Fit: 11872.6412622
+Generation: 300 Best_Fit: 11273.2811361
+Generation: 400 Best_Fit: 10501.2556886
+Generation: 500 Best_Fit: 10034.3465445
+Generation: 600 Best_Fit: 10034.3465445
+Generation: 700 Best_Fit: 9674.65574203
+Generation: 800 Best_Fit: 9469.25031755
+Generation: 900 Best_Fit: 9104.35954055
+Generation: 1000 Best_Fit: 9104.35954055
+Generation: 1100 Best_Fit: 9104.35954055
+Generation: 1200 Best_Fit: 9104.35954055
+Generation: 1300 Best_Fit: 9104.35954055
+Generation: 1400 Best_Fit: 9104.35954055
+Generation: 1500 Best_Fit: 9104.35954055
+Generation: 1600 Best_Fit: 9104.35954055
+Generation: 1700 Best_Fit: 9104.35954055
+Generation: 1800 Best_Fit: 9104.35954055
+Generation: 1900 Best_Fit: 9104.35954055
+Generation: 2000 Best_Fit: 9104.35954055
+Generation: 2100 Best_Fit: 9104.35954055
+Generation: 2200 Best_Fit: 9104.35954055
+Generation: 2300 Best_Fit: 9104.35954055
+Generation: 2400 Best_Fit: 9104.35954055
+Generation: 2500 Best_Fit: 9104.35954055
+Generation: 2600 Best_Fit: 9104.35954055
+Generation: 2700 Best_Fit: 9104.35954055
+Generation: 2800 Best_Fit: 9104.35954055
+Generation: 2900 Best_Fit: 9104.35954055
+
+
+
+Best: [590, 1390][710, 1310][750, 1100][750, 900][460, 860][510, 700][230, 590][490, 500][840, 550][1040, 950][1280, 790][1650, 650][1840, 1240][1460, 1420][1280, 1200][970, 1340][1260, 1500][1490, 1630][1150, 1760][1260, 1910][1030, 2070][1170, 2300][790, 2260][490, 2130][40, 2090][360, 1980][750, 2030][830, 1770][630, 1660]
+
+
+Exe: 2
+Generation: 0 Best_Fit: 22598.8580786
+Generation: 100 Best_Fit: 15300.4831193
+Generation: 200 Best_Fit: 13867.1232704
+Generation: 300 Best_Fit: 11630.4155408
+Generation: 400 Best_Fit: 10113.1566391
+Generation: 500 Best_Fit: 9910.74743289
+Generation: 600 Best_Fit: 9910.74743289
+Generation: 700 Best_Fit: 9691.43429239
+Generation: 800 Best_Fit: 9691.43429239
+Generation: 900 Best_Fit: 9527.18009377
+Generation: 1000 Best_Fit: 9143.04160895
+Generation: 1100 Best_Fit: 9143.04160895
+Generation: 1200 Best_Fit: 9143.04160895
+Generation: 1300 Best_Fit: 9143.04160895
+Generation: 1400 Best_Fit: 9143.04160895
+Generation: 1500 Best_Fit: 9143.04160895
+Generation: 1600 Best_Fit: 9143.04160895
+Generation: 1700 Best_Fit: 9143.04160895
+Generation: 1800 Best_Fit: 9143.04160895
+Generation: 1900 Best_Fit: 9143.04160895
+Generation: 2000 Best_Fit: 9076.9829204
+Generation: 2100 Best_Fit: 9076.9829204
+Generation: 2200 Best_Fit: 9076.9829204
+Generation: 2300 Best_Fit: 9076.9829204
+Generation: 2400 Best_Fit: 9076.9829204
+Generation: 2500 Best_Fit: 9076.9829204
+Generation: 2600 Best_Fit: 9076.9829204
+Generation: 2700 Best_Fit: 9076.9829204
+Generation: 2800 Best_Fit: 9076.9829204
+Generation: 2900 Best_Fit: 9076.9829204
+
+
+
+Best: [1840, 1240][1650, 650][1280, 790][1040, 950][840, 550][490, 500][230, 590][510, 700][460, 860][750, 900][750, 1100][970, 1340][710, 1310][590, 1390][630, 1660][830, 1770][750, 2030][360, 1980][40, 2090][490, 2130][790, 2260][1170, 2300][1030, 2070][1260, 1910][1150, 1760][1260, 1500][1280, 1200][1460, 1420][1490, 1630]
+
+
+Exe: 3
+Generation: 0 Best_Fit: 23427.8258897
+Generation: 100 Best_Fit: 17714.5920508
+Generation: 200 Best_Fit: 13843.5913022
+Generation: 300 Best_Fit: 11769.294205
+Generation: 400 Best_Fit: 10365.8725312
+Generation: 500 Best_Fit: 10006.2230173
+Generation: 600 Best_Fit: 9577.1854723
+Generation: 700 Best_Fit: 9424.80694992
+Generation: 800 Best_Fit: 9424.80694992
+Generation: 900 Best_Fit: 9292.84701544
+Generation: 1000 Best_Fit: 9242.26220302
+Generation: 1100 Best_Fit: 9242.26220302
+Generation: 1200 Best_Fit: 9161.85806195
+Generation: 1300 Best_Fit: 9161.85806195
+Generation: 1400 Best_Fit: 9161.85806195
+Generation: 1500 Best_Fit: 9161.85806195
+Generation: 1600 Best_Fit: 9161.85806195
+Generation: 1700 Best_Fit: 9161.85806195
+Generation: 1800 Best_Fit: 9161.85806195
+Generation: 1900 Best_Fit: 9161.85806195
+Generation: 2000 Best_Fit: 9161.85806195
+Generation: 2100 Best_Fit: 9161.85806195
+Generation: 2200 Best_Fit: 9161.85806195
+Generation: 2300 Best_Fit: 9161.85806195
+Generation: 2400 Best_Fit: 9161.85806195
+Generation: 2500 Best_Fit: 9161.85806195
+Generation: 2600 Best_Fit: 9161.85806195
+Generation: 2700 Best_Fit: 9161.85806195
+Generation: 2800 Best_Fit: 9161.85806195
+Generation: 2900 Best_Fit: 9161.85806195
+
+
+
+Best: [750, 1100][970, 1340][360, 1980][830, 1770][630, 1660][590, 1390][710, 1310][40, 2090][490, 2130][750, 2030][790, 2260][1170, 2300][1030, 2070][1260, 1910][1150, 1760][1490, 1630][1460, 1420][1260, 1500][1280, 1200][1840, 1240][1650, 650][1280, 790][1040, 950][840, 550][490, 500][230, 590][510, 700][460, 860][750, 900]
+
+
+Exe: 4
+Generation: 0 Best_Fit: 22143.3212502
+Generation: 100 Best_Fit: 15178.6091615
+Generation: 200 Best_Fit: 12169.9880065
+Generation: 300 Best_Fit: 11327.7004479
+Generation: 400 Best_Fit: 10155.4520771
+Generation: 500 Best_Fit: 10059.0403985
+Generation: 600 Best_Fit: 9878.50354537
+Generation: 700 Best_Fit: 9878.50354537
+Generation: 800 Best_Fit: 9878.50354537
+Generation: 900 Best_Fit: 9878.50354537
+Generation: 1000 Best_Fit: 9878.50354537
+Generation: 1100 Best_Fit: 9878.50354537
+Generation: 1200 Best_Fit: 9878.50354537
+Generation: 1300 Best_Fit: 9878.50354537
+Generation: 1400 Best_Fit: 9878.50354537
+Generation: 1500 Best_Fit: 9878.50354537
+Generation: 1600 Best_Fit: 9878.50354537
+Generation: 1700 Best_Fit: 9878.50354537
+Generation: 1800 Best_Fit: 9878.50354537
+Generation: 1900 Best_Fit: 9878.50354537
+Generation: 2000 Best_Fit: 9878.50354537
+Generation: 2100 Best_Fit: 9878.50354537
+Generation: 2200 Best_Fit: 9878.50354537
+Generation: 2300 Best_Fit: 9878.50354537
+Generation: 2400 Best_Fit: 9878.50354537
+Generation: 2500 Best_Fit: 9878.50354537
+Generation: 2600 Best_Fit: 9878.50354537
+Generation: 2700 Best_Fit: 9878.50354537
+Generation: 2800 Best_Fit: 9878.50354537
+Generation: 2900 Best_Fit: 9878.50354537
+
+
+
+Best: [1280, 790][1280, 1200][1040, 950][750, 900][840, 550][490, 500][230, 590][510, 700][460, 860][750, 1100][590, 1390][630, 1660][360, 1980][40, 2090][490, 2130][790, 2260][1170, 2300][1030, 2070][1260, 1910][1150, 1760][750, 2030][830, 1770][710, 1310][970, 1340][1260, 1500][1490, 1630][1460, 1420][1840, 1240][1650, 650]
+
+
